@@ -112,43 +112,56 @@ export const PROJECTS = [
   //   tech: ["typescript", "react", "raycast"],
   // },
   {
-    name: "Airbnb",
+    name: "JK Cargocare",
+    image: "/projects/jkcargo.jpeg",
+    blurImage: "/projects/blur/medium-blur.webp",
+    description:
+      "A fully functional, production-ready Next.js and Tailwind CSS website showcasing cargo, shipping, and warehousing solutions.",
+
+    gradient: ["#000066", "#6699FF"],
+    url: "https://shubh73-medium.vercel.app/",
+    tech: ["typescript", "react", "nextjs", "tailwindcss"],
+  },
+  {
+    name: "The BRIDG",
     image: "/projects/thebridg.jpeg",
     blurImage: "/projects/blur/airbnb-blur.webp",
-    description: "Airbnb UI clone using NextJS + Tailwind CSS 🛏️",
-   gradient: ["#3C3C3C", "#000000"],
+    description:
+      "A prop-tech platform built for investors to explore and manage high-ROI real estate opportunities.",
 
+    gradient: ["#3C3C3C", "#000000"],
 
-    url: "https://shubh73-airbnb.vercel.app/",
-    tech: ["react", "nextjs", "tailwindcss", "mapbox"],
+    url: "https://thebridg.com",
+    tech: ["react", "tailwindcss", "nodejs", "mongodb"],
   },
   {
-    name: "Medium",
-    image: "/projects/medium.webp",
-    blurImage: "/projects/blur/medium-blur.webp",
-    description: "Medium UI clone using NextJS + Tailwind CSS ✍🏻",
-    gradient: ["#FFA62E", "#EA4D2C"],
-    url: "https://shubh73-medium.vercel.app/",
-    tech: ["typescript", "react", "nextjs", "tailwindcss", "sanity.io"],
-  },
-  {
-    name: "Inshorts",
-    image: "/projects/inshorts.webp",
+    name: "WoNo Admin Panel",
+    image: "/projects/wono-main.png",
     blurImage: "/projects/blur/airbnb-blur.webp",
     description:
       "Conversational Voice Controlled React News Application using Alan AI 🎙",
     gradient: ["#000066", "#6699FF"],
     url: "https://shubh73-inshorts.netlify.app/",
-    tech: ["react", "chakra-ui", "alan"],
+    tech: [
+      "react",
+      "tailwindcss",
+      "apexcharts",
+      "redux",
+      "mui",
+      "node",
+      "mongodb",
+      "aws",
+      "cloudinary",
+    ],
   },
   {
-    name: "Tesla",
-    image: "/projects/tesla.webp",
+    name: "WoNo Nomads",
+    image: "/projects/nomad-main.png",
     blurImage: "/projects/blur/tesla-blur.webp",
     description: "A Tesla React Native App 🏎️",
-    gradient: ["#142D46", "#2E4964"],
+    gradient: ["#F14658", "#DC2537"],
     url: "https://github.com/shubh73/tesla",
-    tech: ["react"],
+    tech: ["react", "tailwindcss", "redux", "node", "mongodb", "aws"],
   },
 ];
 
