@@ -53,24 +53,18 @@ export const TYPED_STRINGS = [
 export const SOCIAL_LINKS = [
   {
     name: "mail",
-    url: "mailto: shubhporwal73@gmail.com",
+    url: "mailto: aiwinraj1810@gmail.com",
   },
   {
     name: "linkedin",
-    url: "https://www.linkedin.com/in/shubhporwal/",
+    url: "https://www.linkedin.com/in/aiwin-raj-k-s-a6749729a",
   },
   {
     name: "github",
-    url: "https://github.com/shubh73",
+    url: "https://github.com/Aiwinraj1810",
   },
-  {
-    name: "instagram",
-    url: "https://www.instagram.com/shubhii73/",
-  },
-  {
-    name: "twitter",
-    url: "https://x.com/shubhporwal24",
-  },
+
+
 ];
 
 export const SKILLS = {
