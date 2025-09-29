@@ -84,7 +84,7 @@ const Skills = () => {
                   key={skill}
                   src={`/skills/${skill}.svg`}
                   alt={skill}
-                  width={50}
+                  width={70}
                   height={50}
                 />
               ))}
@@ -101,7 +101,7 @@ const Skills = () => {
                     key={skill}
                     src={`/skills/${skill}.svg`}
                     alt={skill}
-                    width={50}
+                    width={70}
                     height={50}
                   />
                 ))}
