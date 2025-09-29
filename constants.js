@@ -113,7 +113,7 @@ export const PROJECTS = [
       "A fully functional, production-ready Next.js and Tailwind CSS website showcasing cargo, shipping, and warehousing solutions.",
 
     gradient: ["#000066", "#6699FF"],
-    url: "https://shubh73-medium.vercel.app/",
+    url: "https://jkcargocare.com",
     tech: ["typescript", "react", "nextjs", "tailwindcss"],
   },
   {
